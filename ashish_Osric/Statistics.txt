@@ -1,0 +1,13 @@
+﻿###
+
+
+******************** Statistics Report  ******************************
+Average Wait Time            :  0
+Average Queue Length         :  0
+% of Time Queue Empty        :  0
+Idle Tech Blocks             :  0
+Blocks without Night Tech    :  0
+Average Wait Time Priority 1 :  0 days, 0 hours, and 0 minutes 
+Average Wait Time Priority 2 :  0 days, 0 hours, and 0 minutes 
+Average Wait Time Priority 3 :  0 days, 0 hours, and 0 minutes 
+Average Wait Time Priority 4 :  0 days, 0 hours, and 0 minutes 

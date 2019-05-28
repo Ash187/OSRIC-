@@ -1,0 +1,6 @@
+﻿10000#Suzy Que#123 Mirandaz Ln.# #Stalingrad#OR#298J78#DE#890-0902#4
+10001#David Billing#9820 Westbrook Dr.# #Harrisburg#OR#190JE3#FR#89-082-9098#1
+10002#Mauro Schavion#1980 Rigor Dr.# #Rome# #1980#IT#23-980-1028#2
+10003#Joseph Stilenburg#290 Reutgered Dr.# #Triton#UT#89030#BE#189-0902#1
+10004#Alina Kosivka#43 Oliver Circle#Suite 5000#Halisted#TR#1020F2#DE#192003030#4
+10005#ashish#3222 John f kennedy blvd#apt 2#jersey city#Nj#07306#Usa#2017362695#4
